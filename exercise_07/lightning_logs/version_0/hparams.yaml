@@ -1,0 +1,7 @@
+batch_size: 8
+input_size: 3072
+learning_rate: 0.0005051949666324719
+loading_method: Image
+n_hidden: 245
+num_classes: 10
+num_workers: 12
